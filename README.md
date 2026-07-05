@@ -34,4 +34,4 @@ A private cloud storage platform designed using **TrueNAS**, **Nextcloud**, and 
 - Virtualized infrastructure deployment
 
 ## ⚠️ Note
-This repository provides a high-level overview of an academic team project. Detailed implementation, configurations, testing data, and internal documentation are intentionally omitted to respect team ownership and project confidentiality.
+This repository provides a high-level overview of an academic team project. Detailed implementation is not included as the project was developed collaboratively.
