@@ -1,4 +1,4 @@
-# TrueNAS & Nextcloud Integration Project
+# Designing a Secure, Scalable, and Cost-Effective Cloud Storage Solution:  Data Management using NextCloud, TrueNAS, and VirtualBox 
 
 ## 📌 Overview
 A private cloud storage platform designed using **TrueNAS**, **Nextcloud**, and **ZFS** to provide secure, scalable, and centralized file storage in a virtualized environment. This academic team project demonstrates cloud storage architecture, secure file sharing, and storage management concepts.
