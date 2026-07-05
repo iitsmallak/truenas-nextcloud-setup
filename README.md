@@ -1,34 +1,37 @@
 # TrueNAS & Nextcloud Integration Project
 
 ## 📌 Overview
-This project demonstrates a private cloud storage solution using TrueNAS as a storage server and Nextcloud as a cloud file-sharing platform.
+A private cloud storage platform designed using **TrueNAS**, **Nextcloud**, and **ZFS** to provide secure, scalable, and centralized file storage in a virtualized environment. This academic team project demonstrates cloud storage architecture, secure file sharing, and storage management concepts.
 
-## Objectives
-- Build a secure private cloud storage system
-- Manage centralized file storage using TrueNAS
-- Enable remote file access using Nextcloud
-- Understand NAS and cloud integration concepts
+## Key Features
+- Secure private cloud storage
+- Centralized file management
+- User authentication and access control
+- File synchronization and sharing
+- ZFS-based storage management
+- Virtualized deployment environment
 
 ## Technologies Used
 - TrueNAS
 - Nextcloud
+- ZFS
 - Linux
-- ZFS File System
-- Virtualization (optional)
+- VirtualBox
+- FIO
 
 ## Architecture
-- TrueNAS as backend storage server
-- Nextcloud as web interface for file access
-- User authentication and permissions management
+- TrueNAS provides backend storage management.
+- Nextcloud provides secure web-based file access.
+- ZFS manages storage pools and data integrity.
+- Virtualization enables isolated deployment and testing.
 
-## Features
-- Secure file storage and sharing
-- Remote access via browser
-- User and permission management
-- Data redundancy using ZFS
+## What I Learned
+- Private cloud storage architecture
+- NAS deployment and administration
+- ZFS storage management
+- User access and permission management
+- Storage performance evaluation
+- Virtualized infrastructure deployment
 
-##  What I Learned
-- NAS storage systems (TrueNAS)
-- Cloud file sharing concepts
-- User access control and permissions
-- Data protection and redundancy
+## ⚠️ Note
+This repository provides a high-level overview of an academic team project. Detailed implementation, configurations, testing data, and internal documentation are intentionally omitted to respect team ownership and project confidentiality.
