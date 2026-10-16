@@ -1,10 +1,10 @@
-# Designing a Secure, Scalable, and Cost-Effective Cloud Storage Solution:
+## Designing a Secure, Scalable, and Cost-Effective Cloud Storage Solution:
 Data Management using NextCloud, TrueNAS, and VirtualBox
 
-## 📌 Overview
+### 📌 Overview
 A private cloud storage platform designed using **TrueNAS**, **Nextcloud**, and **ZFS** to provide secure, scalable, and centralized file storage in a virtualized environment. This academic team project demonstrates cloud storage architecture, secure file sharing, and storage management concepts.
 
-## Key Features
+### Key Features
 - Secure private cloud storage
 - Centralized file management
 - User authentication and access control
@@ -12,7 +12,7 @@ A private cloud storage platform designed using **TrueNAS**, **Nextcloud**, and 
 - ZFS-based storage management
 - Virtualized deployment environment
 
-## Technologies Used
+### Technologies Used
 - TrueNAS
 - Nextcloud
 - ZFS
@@ -20,13 +20,13 @@ A private cloud storage platform designed using **TrueNAS**, **Nextcloud**, and 
 - VirtualBox
 - FIO
 
-## Architecture
+### Architecture
 - TrueNAS provides backend storage management.
 - Nextcloud provides secure web-based file access.
 - ZFS manages storage pools and data integrity.
 - Virtualization enables isolated deployment and testing.
 
-## What I Learned
+### What I Learned
 - Private cloud storage architecture
 - NAS deployment and administration
 - ZFS storage management
@@ -34,5 +34,5 @@ A private cloud storage platform designed using **TrueNAS**, **Nextcloud**, and 
 - Storage performance evaluation
 - Virtualized infrastructure deployment
 
-## ⚠️ Note
+### ⚠️ Note
 This repository provides a high-level overview of an academic team project. Detailed implementation is not included as the project was developed collaboratively.
